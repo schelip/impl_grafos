@@ -336,6 +336,7 @@ class Graph(ABC):
                 return False
         return True
 
+    # TODO
     # NAO TESTADO
     # def dijkstra(self, w: Callable, s: _Vertex):
     #     """
